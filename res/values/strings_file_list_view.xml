@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="file_list_select_here">ここを選択して下さい</string>
+    <string name="file_list_dont_get_list">一覧を取得できません</string>
+    <string name="file_list_empty">&lt;Empty&gt;</string>
+</resources>
